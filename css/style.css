@@ -262,3 +262,16 @@ aside p {
 .home-content {
   margin-top: 20%;
 }
+
+article {
+  width: 60%;
+  order: 2;
+  padding: 20px;
+}
+aside {
+  width: 20%;
+  order: 3;
+}
+.ad {
+  order: 1;
+}
