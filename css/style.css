@@ -60,23 +60,26 @@ img{
 }
 
 /*見出し*/
-.page-title{
+.page-title {
   font-size: 5rem;
-  font-family: "Philosopher", serif;
+  font-family: 'Philosopher', serif;
   text-transform: uppercase;
   font-weight: normal;
 }
 
-/*ボタン*/
-.button{
+/* ボタン */
+.button {
   font-size: 1.375rem;
   background: #0bd;
   color: #fff;
   border-radius:5px;
   padding: 18px 32px;
 }
+.button:hover {
+  background:#0090aa;
+}
 
-/*大きな背景画像*/
+/* 大きな背景画像 */
 .big-bg{
   background-size:cover;
   background-position: center top;
